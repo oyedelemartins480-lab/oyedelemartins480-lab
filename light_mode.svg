@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,'Courier New',monospace" width="985px" height="608px" font-size="15px">
+<style>
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.cc {fill: #c2cfde;}
+.add {fill: #1a7f37;}
+.del {fill: #cf222e;}
+.ok {fill: #1a7f37;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="608px" fill="#f6f8fa" rx="15"/>
+<text fill="#24292f" font-size="10px">
+<tspan x="22" y="108.4" textLength="370" lengthAdjust="spacingAndGlyphs">                             █████████████                              </tspan>
+<tspan x="22" y="118.8" textLength="370" lengthAdjust="spacingAndGlyphs">                         ██████████████████████                         </tspan>
+<tspan x="22" y="129.2" textLength="370" lengthAdjust="spacingAndGlyphs">                       ██████████████████████████                       </tspan>
+<tspan x="22" y="139.6" textLength="370" lengthAdjust="spacingAndGlyphs">                    ███████████████████████████████                     </tspan>
+<tspan x="22" y="150.0" textLength="370" lengthAdjust="spacingAndGlyphs">                   ██████████████████████████████████                   </tspan>
+<tspan x="22" y="160.4" textLength="370" lengthAdjust="spacingAndGlyphs">                 ████████████████████▓▓███████████████                  </tspan>
+<tspan x="22" y="170.8" textLength="370" lengthAdjust="spacingAndGlyphs">                 ████████████▓▓▓▓▓▒▒▒░░░░▒▒▒▓██████████                 </tspan>
+<tspan x="22" y="181.2" textLength="370" lengthAdjust="spacingAndGlyphs">                ████████████▓▓▓▓▓▒▒▒░░░░░░░·░░▒▓████████                </tspan>
+<tspan x="22" y="191.6" textLength="370" lengthAdjust="spacingAndGlyphs">                ███████████▓▓▓▓▒▒▒▒░░·········░░▓███████                </tspan>
+<tspan x="22" y="202.0" textLength="370" lengthAdjust="spacingAndGlyphs">                ███████████▓▓▓▓▒▒▒░░░·········░░░▓██████                </tspan>
+<tspan x="22" y="212.4" textLength="370" lengthAdjust="spacingAndGlyphs">                ██████████▓▓▓▓▓▒▒▒░░···········░░▒▓▓████                </tspan>
+<tspan x="22" y="222.8" textLength="370" lengthAdjust="spacingAndGlyphs">                ██████████▓▓▓▓▒▒▒▒░░░··········░░▒▒▓████                </tspan>
+<tspan x="22" y="233.2" textLength="370" lengthAdjust="spacingAndGlyphs">                █████████▓▓▓▓▒▒▒░░░░░···········░░▒▒▓██▓                </tspan>
+<tspan x="22" y="243.6" textLength="370" lengthAdjust="spacingAndGlyphs">                 █████████████▓▓▒▒░░░░░░░▒▓▓▒▒▒░░▒▒▒▓██                 </tspan>
+<tspan x="22" y="254.0" textLength="370" lengthAdjust="spacingAndGlyphs">                 ████████▓▓▓█████▓▒▒▒░▒▓▓▓▓▓▒░··░░▒▒▓█▒                 </tspan>
+<tspan x="22" y="264.4" textLength="370" lengthAdjust="spacingAndGlyphs">               ▓███████████▓▒▓▓███▓▒░░░▒▓█▓█▓▒▒▒▒░░▒▓▒░▓▒               </tspan>
+<tspan x="22" y="274.8" textLength="370" lengthAdjust="spacingAndGlyphs">               ▓████████████▓░▒▓██▓▒····▒▓▒█▓▒░▒▒░░░▒▒░▓▒               </tspan>
+<tspan x="22" y="285.2" textLength="370" lengthAdjust="spacingAndGlyphs">                ████████▓▓▓▒▒▒▒▓██▓▒·····░░░░······░▒░·▒                </tspan>
+<tspan x="22" y="295.6" textLength="370" lengthAdjust="spacingAndGlyphs">                 █████▓▓▓▒▒▒▒▒▓▓██▓▒···············░▓░░▓                </tspan>
+<tspan x="22" y="306.0" textLength="370" lengthAdjust="spacingAndGlyphs">                 ▓█████▓▓▒▒▒▒▓▓███▓▒····░·········░░▒░▒                 </tspan>
+<tspan x="22" y="316.4" textLength="370" lengthAdjust="spacingAndGlyphs">                  ▓█████▓▓▓▓▓▓██▓▓▒░·····░░······░░▒▒▒                  </tspan>
+<tspan x="22" y="326.8" textLength="370" lengthAdjust="spacingAndGlyphs">                    █████▓▓▓▓███▓██▓░░▒▒▒░······░░▒▓                    </tspan>
+<tspan x="22" y="337.2" textLength="370" lengthAdjust="spacingAndGlyphs">                    ▒█████▓▓▓███████▓░░▒░······░░░▒▒                    </tspan>
+<tspan x="22" y="347.6" textLength="370" lengthAdjust="spacingAndGlyphs">                     ▓██████▓▓▓▓▓▓▓░░░·······░░░░▒▓                     </tspan>
+<tspan x="22" y="358.0" textLength="370" lengthAdjust="spacingAndGlyphs">                      ▓█████▓█████▓▓▒▒▒▒▒▒▒░·░░▒▒▓                      </tspan>
+<tspan x="22" y="368.4" textLength="370" lengthAdjust="spacingAndGlyphs">                       ▓██████████▓▓▓▓▒▒▒▒▒▒▒▒▒▓▓░                      </tspan>
+<tspan x="22" y="378.8" textLength="370" lengthAdjust="spacingAndGlyphs">                       ▒█████████▓▒░░░··░▒▒▒▒▓▓▒▒░                      </tspan>
+<tspan x="22" y="389.2" textLength="370" lengthAdjust="spacingAndGlyphs">                       ▒█████████████▓▓▓▓▓▒▒▓▓▒░▒▒▒                     </tspan>
+<tspan x="22" y="399.6" textLength="370" lengthAdjust="spacingAndGlyphs">                    ▒▓█████████████▓▓▒▒▒▒▒▒▒▒░░░░▒▒▓██▓▓                </tspan>
+<tspan x="22" y="410.0" textLength="370" lengthAdjust="spacingAndGlyphs">                ▓███████████████████▓▓▓▒▒▒▓▒░░░░░▒░░░██████▓            </tspan>
+<tspan x="22" y="420.4" textLength="370" lengthAdjust="spacingAndGlyphs">            ▓██████████████████████████▓▓▒░░░░░░░░░·▒████████████       </tspan>
+<tspan x="22" y="430.8" textLength="370" lengthAdjust="spacingAndGlyphs">        ▓█████████████████████████████▓▒▒░░░░░░░░░░░██████████████████  </tspan>
+<tspan x="22" y="441.2" textLength="370" lengthAdjust="spacingAndGlyphs">    ███████████████████████████████▓▓▓▒▒░░░▒▒░░░░░░█████████████████████</tspan>
+<tspan x="22" y="451.6" textLength="370" lengthAdjust="spacingAndGlyphs">███████████████████████████████████▓▓▓▓▒▒▒▒▒▒░░··▒██████████████████████</tspan>
+<tspan x="22" y="462.0" textLength="370" lengthAdjust="spacingAndGlyphs">██████████████████████████▓▓▓███▓▓▓▓▓▓▓▒▒▒░░░··░▓███████████████████████</tspan>
+<tspan x="22" y="472.4" textLength="370" lengthAdjust="spacingAndGlyphs">███████████████████████████▓▓▓▒▒▒░░▒▒▒▒▒▒░··░▒██████████████████████████</tspan>
+<tspan x="22" y="482.8" textLength="370" lengthAdjust="spacingAndGlyphs">██████████████████████████████▓▓▒░░░░░▒▓▓▓▓█████████████████████████████</tspan>
+<tspan x="22" y="493.2" textLength="370" lengthAdjust="spacingAndGlyphs">████████████████████████████████████████████████████████████████████████</tspan>
+</text>
+<text fill="#24292f">
+<tspan x="412" y="34">oyedelemartins480-lab@github <tspan class="cc">———————————————————————————————</tspan></tspan>
+<tspan x="412" y="54"><tspan class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="ok">●</tspan><tspan class="value">  Building in public</tspan></tspan>
+<tspan x="412" y="74"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Martins Oyedele (MARS)</tspan></tspan>
+<tspan x="412" y="94"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">5 years, 10 months, 18 days</tspan></tspan>
+<tspan x="412" y="114"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">University of Lagos, NG</tspan></tspan>
+<tspan x="412" y="134"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">CS Student -&gt; Backend Engineer</tspan></tspan>
+<tspan x="412" y="154"><tspan class="cc">. </tspan><tspan class="key">Environment</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Antigravity, OpenCode, Windows</tspan></tspan>
+<tspan x="412" y="174"><tspan class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Git, GitHub, Vercel</tspan></tspan>
+<tspan x="412" y="194"><tspan class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Python, JavaScript, HTML/CSS</tspan></tspan>
+<tspan x="412" y="214"><tspan class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">English</tspan></tspan>
+<tspan x="412" y="234"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Backend (Python + Django)</tspan></tspan>
+<tspan x="412" y="254"><tspan class="cc">. </tspan><tspan class="key">Interests</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Fintech, APIs, DSA</tspan></tspan>
+<tspan x="412" y="274"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Building, Design, Hackathons</tspan></tspan>
+<tspan x="412" y="294"></tspan>
+<tspan x="412" y="314"><tspan class="cc">- </tspan>Contact <tspan class="cc">——————————————————————————————————————————————————</tspan></tspan>
+<tspan x="412" y="334"><tspan class="cc">. </tspan><tspan class="key">Timezone</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">WAT (UTC+1)</tspan></tspan>
+<tspan x="412" y="354"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">in/martins-oyedele-047762268</tspan></tspan>
+<tspan x="412" y="374"><tspan class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">@martinsoyedele</tspan></tspan>
+<tspan x="412" y="394"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">oyedelemartins480-lab</tspan></tspan>
+<tspan x="412" y="414"></tspan>
+<tspan x="412" y="434"><tspan class="cc">- </tspan>GitHub Stats <tspan class="cc">—————————————————————————————————————————————</tspan></tspan>
+<tspan x="412" y="454"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">-- {Contributed: --}</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">--</tspan></tspan>
+<tspan x="412" y="474"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">--</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">--</tspan></tspan>
+<tspan x="412" y="494"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">-- ( </tspan><tspan class="add">--++</tspan>, <tspan class="del">----</tspan><tspan class="value"> )</tspan></tspan>
+<tspan x="412" y="514"></tspan>
+<tspan x="412" y="534"><tspan class="cc">————————————————————————————————————————————————————————————</tspan></tspan>
+<tspan x="412" y="554"><tspan class="cc">                                      // Building technology</tspan></tspan>
+<tspan x="412" y="574"><tspan class="cc">                                    // for African problems.</tspan></tspan>
+</text>
+</svg>
